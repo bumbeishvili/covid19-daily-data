@@ -106,6 +106,8 @@ nameStandards = ({
 })
 ```
 
+## Lack of 
+Some small countries may be lacking, I plan to identify and add them into dataset
 
 ## Contribution
 They are welcome, but I doubt there will be need for this. One area which we can improve, is to standartize country names using ISO country codes
