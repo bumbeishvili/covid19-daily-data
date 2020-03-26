@@ -4,7 +4,7 @@
 
 ## Foreword
 
-Recently [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) stopped supplementing recovered data for covid-19.  This was the last issue which motivated me to let this repo go and started my own data repository building.
+Recently [CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) stopped supplementing recovered data for covid-19.  This was the final issue which motivated me to let this repo go and started my own data repository building.
 
 Recovery information is very important, because we can calculate active cases based on it and  check progress of disease in the world.
 
