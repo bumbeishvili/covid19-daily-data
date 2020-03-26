@@ -29,8 +29,82 @@ Because worldometer does not provide data on county and state level, I had to sp
 ## Other modifications
 I just recently realised, they no longer would be updating the data for recovered dataset, so I had to manually edit data to and had to fixe irregularities for those time ranges (23 March specifically)
 
-I also modified some country names
+I also modified some country names (left side names changed to right side names)
+```javascript
+nameStandards = ({
+ "Mainland China":"China",
+  
+ "US":"USA",
+ "United States":"USA",
+  
+ "United Kingdom":"UK",
+ "England":"UK",
+  
 
+ "Others":"Diamond Princess",
+ "Cruise Ship":"Diamond Princess",
+  
+ "Czechia":"Czech Republic",
+ "United Arab Emirates":"UAE",
+ "Iran (Islamic Republic of)":"Iran",
+ "Hong Kong SAR":"Hong Kong",
+
+ "Viet Nam":"Vietnam",
+ "occupied Palestinian territory":"Palestine",
+ "Macao SAR":"Macao",
+ "Russian Federation":"Russia",
+ "Republic of Moldova":"Moldova",
+ "Macedonia":"North Macedonia",
+ "Republic of Serbia":"Serbia",
+ "Saint Vincent and the Grenadines": "St. Vincent Grenadines",
+ "Ivory Coast":"Cote d'Ivoire",
+ "Saint Barthelemy":"St. Barth",
+ "Faroe Islands": "Faeroe Islands",
+ "Faeroe Islands": "Faeroe Islands",
+ "Réunion":"Reunion",
+ "The Gambia":"Gambia",
+   "Central African Republic":"CAR",
+  "Curacao":"Curaçao",
+  "Curaçao":"Curaçao",
+  "Jersey":"Channel Islands",
+  "Guernsey":"Channel Islands",
+  "East Timor":"Timor-Leste",
+
+  
+ "Republic of Korea":"South Korea",
+ "S. Korea":"South Korea",
+ "Korea, South":"South Korea",
+  "United Republic of Tanzania":"Tanzania",
+  
+
+  
+ "Holy See":"Vatican City",
+ "Vatican":"Vatican City",
+ "Holy See (Vatican City State)":"Vatican City",
+  
+
+
+  "Taiwan*":"Taiwan",
+   "Taipei and environs":"Taiwan",
+
+  
+  "Democratic Republic of Congo":"Congo",
+  "Congo (Kinshasa)":"Congo",
+  "DRC":"Congo",
+  "The Democratic Republic of Congo":"Congo",
+  "Democratic Republic of the Congo":"Congo",
+  
+  "Congo (Brazzaville)":"Congo (Brazzaville)",
+  
+
+  "The Bahamas":"Bahamas", 
+  "Bahamas, The":"Bahamas",
+  
+  "Gambia, The":"Gambia",
+  
+  
+})
+```
 
 
 ## Contribution
