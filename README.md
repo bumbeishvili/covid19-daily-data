@@ -1,5 +1,7 @@
 # worldometers-daily-data
 
+Dashboard - Based on mostly this data - https://github.com/bumbeishvili/coronavirus.davidb.dev
+
 
 
 ## Foreword
