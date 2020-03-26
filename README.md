@@ -29,6 +29,8 @@ Because worldometer does not provide data on county and state level, I had to sp
 ## Other modifications
 I just recently realised, they no longer would be updating the data for recovered dataset, so I had to manually edit data to and had to fixe irregularities for those time ranges (23 March specifically)
 
+I also modified some country names
+
 
 
 ## Contribution
