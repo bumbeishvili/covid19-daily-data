@@ -25,3 +25,12 @@ So we will just need to copy that merged data and paste to this csv file
 
 Because worldometer does not provide data on county and state level, I had to spread that data proportionally across US states and counties , summing them up  will produce right number country wide (After rounding )
 
+
+## Other modifications
+I just recently realised, they no longer would be updating the data for recovered dataset, so I had to manually edit data to and had to fixe irregularities for those time ranges (23 March specifically)
+
+
+
+## Contribution
+They are welcome, but I doubt there will be need for this. One area which we can improve, is to standartize country names using ISO country codes
+
