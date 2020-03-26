@@ -1,6 +1,6 @@
 # worldometers-daily-data
 
-Dashboard - Based on mostly repository data - https://github.com/bumbeishvili/coronavirus.davidb.dev
+Live dashboard based on this data - https://github.com/bumbeishvili/coronavirus.davidb.dev
 
 
 
