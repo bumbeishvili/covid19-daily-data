@@ -1,6 +1,10 @@
-# worldometers-daily-data
+# worldometers daily data
 
-Live dashboard based on this data - https://github.com/bumbeishvili/coronavirus.davidb.dev
+
+Applications using this data
+1.  https://coronavirus.davidb.dev - The most complete covid-19 live dashboard
+
+
 
 
 
