@@ -1,8 +1,15 @@
 # Worldometers daily data
 
 
-Applications using this data
-1.  https://coronavirus.davidb.dev - The most complete covid-19 live dashboard
+## Apps using this data (sorted by easy accessibility)
+
+#### Web Apps
+1. [coronavirus.davidb.dev](https://coronavirus.davidb.dev) - The most complete covid-19 live dashboard with predictions
+2. [COVID-2019 Stats](https://observablehq.com/@phantomydn/covid-2019-stats-country-state-selection) - Covid-19 Stats js notebook
+
+
+#### Apps
+1.  [Covid](https://github.com/jsidew/covid#) - Outbreak controlling status in the world
 
 
 
