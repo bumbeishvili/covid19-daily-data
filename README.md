@@ -5,11 +5,11 @@
 
 #### Web Apps
 1. [coronavirus.davidb.dev](https://coronavirus.davidb.dev) - The most complete covid-19 live dashboard with predictions
-2. [COVID-2019 Stats](https://observablehq.com/@phantomydn/covid-2019-stats-country-state-selection) - Covid-19 Stats js notebook
+2. [covid-2019 stats](https://observablehq.com/@phantomydn/covid-2019-stats-country-state-selection) - Covid-19 Stats js notebook
 
 
 #### Apps
-1.  [Covid](https://github.com/jsidew/covid#) - Outbreak controlling status in the world
+1.  [covid](https://github.com/jsidew/covid#) - Outbreak controlling status in the world
 
 
 
