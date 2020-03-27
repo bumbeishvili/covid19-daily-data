@@ -25,7 +25,7 @@ Recovery information is very important, because we can calculate active cases ba
 
 ## How
 
-Data will just come from Worldometers and it will be updated every day
+Data will just come from Worldometers and it will be updated daily
 
 ## Automation
 Becase, I did not want to do this manually, I wrote a small js notebook, which scrapes worldometer page and merges that data with already existing data
