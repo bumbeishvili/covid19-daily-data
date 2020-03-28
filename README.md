@@ -22,6 +22,10 @@ Recently (from 23 March) [CSSEGISandData/COVID-19](https://github.com/CSSEGISand
 
 Recovery information is very important, because we can calculate active cases based on it and  check progress of disease in the world.
 
+Several days later,  they started recording recovered data again on world scale, but because of so many unreliable modifications, I think, I will be sticking to own data fetching. 
+
+
+
 
 ## How
 
