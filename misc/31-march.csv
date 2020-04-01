@@ -1,0 +1,206 @@
+country,cases,recovered,deaths
+China,81518,76052,3305
+USA,188530,7251,4053
+Italy,105792,15729,12428
+Spain,95923,19259,8464
+Germany,71808,16100,775
+France,52128,9444,3523
+Iran,44605,14656,2898
+UK,25150,135,1789
+Switzerland,16605,1823,433
+Turkey,13531,243,214
+Belgium,12775,1696,705
+Netherlands,12595,250,1039
+Austria,10180,1095,128
+South Korea,9786,5408,162
+Canada,8612,1242,101
+Portugal,7443,43,160
+Brazil,5717,127,201
+Israel,5358,224,20
+Australia,4763,345,20
+Norway,4641,13,39
+Sweden,4435,16,180
+Czech Republic,3308,45,31
+Ireland,3235,5,71
+Denmark,2860,1,90
+Malaysia,2766,537,43
+Chile,2738,156,12
+Russia,2337,121,17
+Poland,2311,7,33
+Ecuador,2302,58,79
+Romania,2245,220,82
+Japan,2178,424,57
+Luxembourg,2178,80,23
+Philippines,2084,49,88
+Pakistan,1938,76,26
+Thailand,1651,342,10
+Saudi Arabia,1563,165,10
+Indonesia,1528,81,136
+Finland,1418,10,17
+India,1397,123,35
+South Africa,1353,31,5
+Greece,1314,52,49
+Panama,1181,9,30
+Iceland,1135,198,2
+Dominican Republic,1109,5,51
+Mexico,1094,35,28
+Peru,1065,394,30
+Argentina,1054,240,27
+Singapore,926,240,3
+Colombia,906,31,16
+Serbia,900,42,23
+Croatia,867,67,6
+Slovenia,802,10,15
+Qatar,781,62,2
+Estonia,745,26,4
+Algeria,716,46,44
+Hong Kong,715,128,4
+Diamond Princess,712,603,11
+Egypt,710,157,46
+Iraq,694,170,50
+UAE,664,61,6
+New Zealand,647,74,1
+Ukraine,645,10,17
+Morocco,617,24,36
+Bahrain,567,295,4
+Lithuania,537,7,8
+Armenia,532,30,3
+Hungary,492,37,16
+Lebanon,463,37,12
+Bosnia and Herzegovina,420,17,13
+Bulgaria,399,17,8
+Latvia,398,1,0
+Tunisia,394,3,10
+Andorra,376,10,12
+Slovakia,363,3,0
+Moldova,353,18,4
+Costa Rica,347,4,2
+Kazakhstan,343,24,2
+Uruguay,338,41,1
+North Macedonia,329,12,9
+Taiwan,322,39,5
+Azerbaijan,298,26,5
+Kuwait,289,73,0
+Jordan,274,30,5
+Cyprus,262,23,8
+Burkina Faso,261,32,14
+Reunion,247,1,0
+Albania,243,52,15
+San Marino,236,13,26
+Vietnam,212,58,0
+Cameroon,193,5,6
+Oman,192,34,1
+Cuba,186,8,6
+Cote d'Ivoire,179,7,1
+Senegal,175,40,0
+Afghanistan,174,5,4
+Uzbekistan,172,7,2
+Faeroe Islands,169,74,0
+Malta,169,2,0
+Ghana,161,31,5
+Belarus,152,47,1
+Mauritius,143,0,5
+Sri Lanka,143,17,2
+Honduras,141,3,7
+Channel Islands,141,0,3
+Venezuela,135,39,3
+Nigeria,135,8,2
+Brunei,129,45,1
+Martinique,128,27,3
+Palestine,119,18,1
+Guadeloupe,114,22,4
+Georgia,110,21,0
+Montenegro,109,0,2
+Cambodia,109,23,0
+Bolivia,107,0,6
+Kyrgyzstan,107,3,0
+Congo,98,2,8
+Mayotte,94,10,1
+Trinidad and Tobago,87,1,3
+Rwanda,75,0,0
+Gibraltar,69,34,0
+Liechtenstein,68,0,0
+Paraguay,65,1,3
+Isle of Man,60,0,0
+Kenya,59,1,1
+Madagascar,57,0,0
+Aruba,55,1,0
+Monaco,52,2,1
+Bangladesh,51,25,5
+French Guiana,51,15,0
+Uganda,44,0,0
+Macao,41,10,0
+Jamaica,38,2,2
+Guatemala,38,12,1
+French Polynesia,37,0,0
+Zambia,36,0,0
+Niger,34,0,3
+Togo,34,10,1
+Barbados,34,0,0
+El Salvador,32,0,1
+Bermuda,32,10,0
+Djibouti,30,0,0
+Mali,28,0,2
+Ethiopia,26,2,0
+Guinea,22,0,0
+Tanzania,19,1,1
+Congo,19,0,0
+Maldives,18,13,0
+Gabon,16,0,1
+New Caledonia,16,0,0
+Myanmar,15,0,1
+Saint Martin,15,2,1
+Equatorial Guinea,15,1,0
+Eritrea,15,0,0
+Haiti,15,1,0
+Cayman Islands,14,0,1
+Bahamas,14,1,0
+Saint Lucia,13,1,0
+Guyana,12,0,2
+Dominica,12,0,0
+Mongolia,12,2,0
+Curaçao,11,2,1
+Namibia,11,2,0
+Syria,10,0,2
+Greenland,10,2,0
+Libya,10,1,0
+Seychelles,10,0,0
+Benin,9,1,0
+Grenada,9,0,0
+Laos,9,0,0
+Suriname,9,0,0
+Eswatini,9,0,0
+Zimbabwe,8,0,1
+Guinea-Bissau,8,0,0
+Mozambique,8,0,0
+Saint Kitts and Nevis,8,0,0
+Angola,7,1,2
+Sudan,7,1,2
+Antigua and Barbuda,7,0,0
+Chad,7,0,0
+Cabo Verde,6,0,1
+Mauritania,6,2,1
+Vatican City,6,0,0
+St. Barth,6,1,0
+Sint Maarten,6,0,0
+Nicaragua,5,0,1
+Nepal,5,1,0
+Fiji,5,0,0
+Montserrat,5,0,0
+Somalia,5,1,0
+Turks and Caicos,5,0,0
+Botswana,4,0,1
+Gambia,4,0,1
+Bhutan,4,0,0
+Belize,3,0,0
+British Virgin Islands,3,0,0
+CAR,3,0,0
+Liberia,3,0,0
+MS Zaandam,2,0,0
+Anguilla,2,0,0
+Burundi,2,0,0
+Papua New Guinea,1,0,0
+St. Vincent Grenadines,1,1,0
+Sierra Leone,1,0,0
+Timor-Leste,1,0,0
+Total:,858319,177931,42302
