@@ -1,0 +1,210 @@
+country,cases,recovered,deaths
+World,1116643,228405,59161
+China,81620,76571,3322
+USA,277161,12283,7392
+Italy,119827,19758,14681
+Spain,119199,30513,11198
+Germany,91159,24575,1275
+France,82165,14008,6507
+Iran,53183,17935,3294
+UK,38168,135,3605
+Turkey,20921,484,425
+Switzerland,19606,4846,591
+Belgium,16770,2872,1143
+Netherlands,15723,250,1487
+Canada,12375,2186,208
+Austria,11524,2022,168
+South Korea,10062,6021,174
+Portugal,9886,68,246
+Brazil,9194,127,363
+Israel,7428,403,40
+Sweden,6131,205,358
+Australia,5454,585,28
+Norway,5370,32,59
+Ireland,4273,25,120
+Czech Republic,4190,72,53
+Russia,4149,281,34
+Denmark,3757,1193,139
+Chile,3737,427,22
+Poland,3383,56,71
+Ecuador,3368,65,145
+Malaysia,3333,827,53
+Romania,3183,283,133
+India,3059,192,86
+Philippines,3018,52,136
+Japan,2935,514,69
+Pakistan,2686,126,40
+Luxembourg,2612,500,31
+Saudi Arabia,2039,351,25
+Indonesia,1986,134,181
+Thailand,1978,612,19
+Panama,1673,10,41
+Finland,1615,300,20
+Greece,1613,78,63
+Peru,1595,537,61
+Mexico,1510,633,50
+South Africa,1505,95,9
+Dominican Republic,1488,16,68
+Serbia,1476,54,39
+Iceland,1364,309,4
+Argentina,1353,266,42
+Colombia,1267,55,25
+UAE,1264,108,9
+Algeria,1171,62,105
+Singapore,1114,282,5
+Croatia,1079,92,8
+Qatar,1075,93,3
+Ukraine,1072,22,27
+Egypt,985,216,66
+Estonia,961,48,12
+Slovenia,934,70,20
+New Zealand,868,103,1
+Hong Kong,845,173,4
+Iraq,820,226,54
+Morocco,791,57,48
+Armenia,736,43,7
+Diamond Princess,712,619,11
+Lithuania,696,7,9
+Bahrain,672,382,4
+Hungary,623,43,26
+Moldova,591,26,8
+Bosnia and Herzegovina,579,27,17
+Cameroon,509,17,8
+Lebanon,508,50,17
+Tunisia,495,5,18
+Latvia,493,1,1
+Bulgaria,485,30,14
+Kazakhstan,464,29,6
+Slovakia,450,10,1
+Azerbaijan,443,32,5
+Andorra,439,16,16
+North Macedonia,430,20,12
+Kuwait,417,82,0
+Costa Rica,416,11,2
+Cyprus,396,28,11
+Uruguay,386,86,4
+Belarus,351,53,4
+Taiwan,348,50,5
+Reunion,321,40,0
+Jordan,310,58,5
+Albania,304,89,17
+Burkina Faso,302,50,16
+Afghanistan,281,10,6
+Cuba,269,15,6
+Oman,252,57,1
+San Marino,251,26,32
+Vietnam,239,85,0
+Channel Islands,232,13,4
+Uzbekistan,227,25,2
+Honduras,222,3,15
+Cote d'Ivoire,218,19,1
+Nigeria,210,25,4
+Senegal,207,66,1
+Ghana,205,31,5
+Malta,202,2,0
+Palestine,194,21,1
+Mauritius,186,0,7
+Faeroe Islands,179,91,0
+Montenegro,174,1,2
+Sri Lanka,159,24,4
+Georgia,155,28,0
+Venezuela,153,52,7
+Congo,148,3,16
+Martinique,143,27,3
+Brunei,134,65,1
+Bolivia,132,1,9
+Guadeloupe,130,24,7
+Kyrgyzstan,130,6,1
+Mayotte,128,10,2
+Kenya,122,4,4
+Niger,120,0,5
+Isle of Man,114,0,1
+Cambodia,114,35,0
+Trinidad and Tobago,98,1,6
+Gibraltar,95,46,0
+Paraguay,92,6,3
+Rwanda,89,0,0
+Liechtenstein,75,0,0
+Guinea,73,2,0
+Madagascar,70,0,0
+Monaco,64,3,1
+Aruba,62,1,0
+Bangladesh,61,26,6
+French Guiana,57,22,0
+Jamaica,53,7,3
+Barbados,51,0,0
+Guatemala,50,12,1
+Djibouti,49,8,0
+Uganda,48,0,0
+El Salvador,46,0,3
+Macao,42,10,0
+Togo,40,17,3
+Mali,39,0,3
+Zambia,39,2,1
+French Polynesia,39,0,0
+Bermuda,35,14,0
+Ethiopia,35,3,0
+Cayman Islands,29,1,1
+Bahamas,24,0,3
+Guyana,23,0,4
+Sint Maarten,23,6,4
+Congo,22,2,2
+Saint Martin,22,2,1
+Eritrea,22,0,0
+Gabon,21,1,1
+Myanmar,20,0,1
+Tanzania,20,3,1
+Maldives,19,13,0
+Haiti,18,1,0
+New Caledonia,18,1,0
+Libya,17,0,1
+Syria,16,0,2
+Benin,16,2,0
+Equatorial Guinea,16,1,0
+Antigua and Barbuda,15,0,0
+Guinea-Bissau,15,0,0
+Dominica,14,0,0
+Mongolia,14,2,0
+Namibia,14,3,0
+Saint Lucia,13,1,0
+Grenada,12,0,0
+Curaçao,11,3,1
+Sudan,10,2,2
+Suriname,10,0,1
+Greenland,10,3,0
+Laos,10,0,0
+Mozambique,10,0,0
+Seychelles,10,0,0
+MS Zaandam,9,0,2
+Zimbabwe,9,0,1
+Saint Kitts and Nevis,9,0,0
+Eswatini,9,0,0
+Angola,8,1,2
+CAR,8,0,0
+Chad,8,0,0
+Fiji,7,0,0
+Vatican City,7,0,0
+Liberia,7,0,0
+St. Vincent Grenadines,7,1,0
+Somalia,7,1,0
+Cabo Verde,6,0,1
+Mauritania,6,2,1
+Nepal,6,1,0
+Montserrat,6,0,0
+St. Barth,6,1,0
+Nicaragua,5,0,1
+Bhutan,5,2,0
+Turks and Caicos,5,0,0
+Botswana,4,0,1
+Gambia,4,2,1
+Belize,4,0,0
+Anguilla,3,0,0
+British Virgin Islands,3,0,0
+Burundi,3,0,0
+Malawi,3,0,0
+Caribbean Netherlands,2,0,0
+Sierra Leone,2,0,0
+Falkland Islands,1,0,0
+Papua New Guinea,1,0,0
+Timor-Leste,1,0,0
+Total:,1116643,228405,59161
