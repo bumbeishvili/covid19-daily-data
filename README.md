@@ -1,4 +1,18 @@
+```diff
+- Notice
+
+Several countries state details will be removed soon and only country level aggregated data will stay in place
+Those countries include:
++ China
++ USA
++ Australia
++ Canada
+```
+
+
 # Worldometers daily data
+
+
 
 
 ## Apps using this data 
