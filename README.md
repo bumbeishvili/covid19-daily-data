@@ -7,6 +7,9 @@ Those countries include:
 + USA
 + Australia
 + Canada
+
+- KNOWN issues
++ Death counts not accurate fortunatelly historical data is also saved and I plan to merge it as well
 ```
 
 
