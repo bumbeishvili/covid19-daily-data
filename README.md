@@ -1,13 +1,4 @@
 ```diff
-- Notice
-
-Several countries state details will be removed soon and only country level aggregated data will stay in place
-Those countries include:
-+ China
-+ USA
-+ Australia
-+ Canada
-
 - KNOWN issues
 + Death counts not accurate fortunatelly historical data is also saved and I plan to merge it as well
 ```
@@ -56,15 +47,10 @@ https://observablehq.com/d/c99a630b3931dfbc
 
 So we will just need to copy that merged data and paste to this csv file
 
-## Challenges
-
-Because worldometer does not provide data on county and state level, I had to spread that data proportionally across US states and counties , summing them up  will produce right number country wide (After rounding )
-
 
 ## Other modifications
-I just recently realised, they no longer would be updating the data for recovered dataset, so I had to manually edit data to and had to fixe irregularities for those time ranges (23 March specifically)
 
-I also modified some country names (left side names changed to right side names)
+I  modified some country names (left side names changed to right side names)
 ```javascript
 nameStandards = ({
  "Mainland China":"China",
