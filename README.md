@@ -72,6 +72,7 @@ nameStandards = ({
 
  "Viet Nam":"Vietnam",
  "occupied Palestinian territory":"Palestine",
+ "Saint Martin":"St Martin",
  "Macao SAR":"Macao",
  "Russian Federation":"Russia",
  "Republic of Moldova":"Moldova",
@@ -80,13 +81,16 @@ nameStandards = ({
  "Saint Vincent and the Grenadines": "St. Vincent Grenadines",
  "Ivory Coast":"Cote d'Ivoire",
  "Saint Barthelemy":"St. Barth",
+  
  "Faroe Islands": "Faeroe Islands",
- "Faeroe Islands": "Faeroe Islands",
+  
  "Réunion":"Reunion",
  "The Gambia":"Gambia",
    "Central African Republic":"CAR",
+  
   "Curacao":"Curaçao",
   "Curaçao":"Curaçao",
+  
   "Jersey":"Channel Islands",
   "Guernsey":"Channel Islands",
   "East Timor":"Timor-Leste",
