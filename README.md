@@ -1,7 +1,3 @@
-```diff
-- KNOWN issues
-+ Death counts are not accurate for some countries, which recorded their first death after 23 March. Fortunatelly historical data is also saved and I plan to merge it as well
-```
 
 
 # Worldometers daily data
