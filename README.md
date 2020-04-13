@@ -10,6 +10,7 @@ sorted for easy accessibility
 #### Web Apps
 1. [coronavirus.davidb.dev](https://coronavirus.davidb.dev) - The most complete covid-19 live dashboard with predictions
 2. [covid-2019 stats](https://observablehq.com/@phantomydn/covid-2019-stats-country-state-selection) - Covid-19 Stats js notebook
+3. [covid-dashboard](http://covid.kylebaker.io)
 
 
 #### Apps
