@@ -43,7 +43,7 @@ Several days later,  they started recording recovered data again on world scale,
 Data will just come from Worldometers and it will be updated daily
 
 ## Automation
-Becase, I did not want to do this manually, I wrote a small js notebook, which scrapes worldometer page and merges that data with already existing data
+Beucase, I did not want to do this manually, I wrote a small js notebook, which scrapes worldometer page and merges that data with already existing data
 
 
 https://observablehq.com/d/c99a630b3931dfbc
