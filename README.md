@@ -8,7 +8,6 @@ Due to changes in methodology or lack of information, or just because of bugs, s
 1. Recovered items in UK needs fixing, in Worldometer, sometimes they are showing NaN, we can show previous number instead
 2. Missing of some small countries. Fortunatelly historical data is saved and we can work on that too
 3. China numbers - on 17 April, China changed their reported numbers, we will need to spread it proportionally , or not, not sure. Anyway, putting a note about it here
-4. France adjusted their numbers in 18 April, hence total cases decreased
 
 
 ## Apps using this data 
