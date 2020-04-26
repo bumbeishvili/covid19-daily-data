@@ -3,7 +3,7 @@
 # Worldometers daily data
 
 #### Notes
-Due to changes in methodology or lack of information, or just because of bugs, sometimes we need to apply modifications to past records, currently I am identifying need of 3 changes
+Due to changes in methodology or lack of information, or just because of bugs, sometimes we need to apply modifications to past records, currently I am identifying the need of following changes
 
 1. Recovered items in UK needs fixing, in Worldometer, sometimes they are showing NaN, we can show previous number instead
 2. Missing of some small countries. Fortunatelly historical data is saved and we can work on that too
