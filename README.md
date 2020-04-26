@@ -19,6 +19,7 @@ sorted for easy accessibility
 1. [coronavirus.davidb.dev](https://coronavirus.davidb.dev) - The most complete covid-19 live dashboard with predictions
 2. [covid-2019 stats](https://observablehq.com/@phantomydn/covid-2019-stats-country-state-selection) - Covid-19 Stats js notebook
 3. [covid-dashboard](http://covid.kylebaker.io)
+4. [covid3d.live](https://covid3d.live/) - An interactive 3D visualization of COVID-19.
 
 
 #### Apps
