@@ -9,6 +9,7 @@ Due to changes in methodology or lack of information, or just because of bugs, s
 2. Missing of some small countries. Fortunatelly historical data is saved and we can work on that too
 3. China numbers - on 17 April, China changed their reported numbers, we will need to spread it proportionally , or not, not sure. Anyway, putting a note about it here
 4. One of the Congo's data is not updated, it will need manual data extraction from Worldometer
+5. France, Spain, UK and Norwey problem
 
 #### Notes for self when using historical data
 * We manually updated data for France, so we should be careful not to overwrite it 
