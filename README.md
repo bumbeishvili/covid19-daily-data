@@ -141,6 +141,14 @@ nameStandards = ({
 ## Lack of 
 Some small countries may be lacking, I plan to identify and add them into dataset
 
+## Data Recover Instructions
+* Create new `YDay` branch from yesterday's commit
+* Make it main branch
+* Remove Master
+* Create Master from Yday
+* Make master main
+* Visit - https://observablehq.com/d/532511bde07ffc9b - and add data as usual
+
 ## Contribution
 They are welcome, but I doubt there will be need for this. One area which we can improve, is to standartize country names using ISO country codes
 
