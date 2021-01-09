@@ -150,6 +150,11 @@ Some small countries may be lacking, I plan to identify and add them into datase
 * Make master main
 * Visit - https://observablehq.com/d/532511bde07ffc9b - and add data as usual
 
+## Data Recover Instructions - Current day - 3
+Since worldometer does not show last 3 days data, it have to be interolated
+* Visit - https://observablehq.com/d/cbef3b288d826b0f - and take a closer look at casesMerged,recoveredMerged,deathsmerged variables
+
+
 ## Contribution
 They are welcome, but I doubt there will be need for this. One area which we can improve, is to standartize country names using ISO country codes
 
