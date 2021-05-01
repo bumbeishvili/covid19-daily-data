@@ -1,0 +1,232 @@
+[{"country":"World","cases":151126298,"recovered":129048934,"deaths":3178924,"critical":111723,"tests":0},{"country":"China","cases":90642,"recovered":85682,"deaths":4636,"critical":3,"tests":160000000},{"country":"USA","cases":33044068,"recovered":25641574,"deaths":589271,"critical":9751,"tests":445062683},{"country":"India","cases":18754984,"recovered":15373765,"deaths":208313,"critical":8944,"tests":284471979},{"country":"Brazil","cases":14592886,"recovered":13152118,"deaths":401417,"critical":8318,"tests":43818216},{"country":"France","cases":5592390,"recovered":4498598,"deaths":104238,"critical":5804,"tests":75604728},{"country":"Russia","cases":4796557,"recovered":4419540,"deaths":109731,"critical":2300,"tests":128800000},{"country":"Turkey","cases":4788700,"recovered":4255714,"deaths":39737,"critical":3581,"tests":46996712},{"country":"UK","cases":4414242,"recovered":4210343,"deaths":127502,"critical":208,"tests":155072706},{"country":"Italy","cases":4009207,"recovered":3449955,"deaths":120544,"critical":2640,"tests":58240981},{"country":"Spain","cases":3514942,"recovered":3192970,"deaths":78080,"critical":2320,"tests":46199597},{"country":"Germany","cases":3379387,"recovered":2975200,"deaths":83338,"critical":5049,"tests":55490413},{"country":"Argentina","cases":2954943,"recovered":2608077,"deaths":63508,"critical":5317,"tests":11064135},{"country":"Colombia","cases":2841934,"recovered":2650643,"deaths":73230,"critical":6006,"tests":14715576},{"country":"Poland","cases":2785346,"recovered":2483780,"deaths":67073,"critical":2895,"tests":14259976},{"country":"Iran","cases":2479805,"recovered":1938064,"deaths":71351,"critical":5367,"tests":15693870},{"country":"Mexico","cases":2336944,"recovered":1858844,"deaths":215918,"critical":4798,"tests":6589963},{"country":"Ukraine","cases":2059465,"recovered":1635333,"deaths":43778,"critical":177,"tests":9335892},{"country":"Peru","cases":1791998,"recovered":1688091,"deaths":61101,"critical":2679,"tests":11096385},{"country":"Indonesia","cases":1662868,"recovered":1517432,"deaths":45334,"critical":0,"tests":14563216},{"country":"Czech Republic","cases":1628542,"recovered":1549306,"deaths":29253,"critical":622,"tests":17890535},{"country":"South Africa","cases":1579536,"recovered":1504426,"deaths":54331,"critical":546,"tests":10625030},{"country":"Netherlands","cases":1488594,"recovered":1247879,"deaths":17126,"critical":810,"tests":12274847},{"country":"Canada","cases":1211083,"recovered":1103462,"deaths":24169,"critical":1422,"tests":31325175},{"country":"Chile","cases":1190991,"recovered":1125761,"deaths":26247,"critical":3396,"tests":12979820},{"country":"Iraq","cases":1058794,"recovered":934935,"deaths":15433,"critical":551,"tests":9292052},{"country":"Romania","cases":1053629,"recovered":985827,"deaths":27971,"critical":1295,"tests":8225496},{"country":"Philippines","cases":1028712,"recovered":942175,"deaths":17145,"critical":750,"tests":11731301},{"country":"Belgium","cases":982959,"recovered":848832,"deaths":24140,"critical":892,"tests":12420691},{"country":"Sweden","cases":973604,"recovered":790875,"deaths":14015,"critical":392,"tests":8482276},{"country":"Israel","cases":838407,"recovered":830530,"deaths":6362,"critical":114,"tests":14200104},{"country":"Portugal","cases":836033,"recovered":795326,"deaths":16974,"critical":89,"tests":10462333},{"country":"Pakistan","cases":815711,"recovered":708193,"deaths":17680,"critical":5263,"tests":11739027},{"country":"Hungary","cases":776983,"recovered":503697,"deaths":27358,"critical":662,"tests":5349792},{"country":"Bangladesh","cases":756955,"recovered":677101,"deaths":11393,"critical":0,"tests":5448658},{"country":"Jordan","cases":709817,"recovered":680907,"deaths":8801,"critical":729,"tests":6685507},{"country":"Serbia","cases":687944,"recovered":633164,"deaths":6337,"critical":171,"tests":3828544},{"country":"Switzerland","cases":658143,"recovered":588162,"deaths":10625,"critical":242,"tests":6878392},{"country":"Austria","cases":616739,"recovered":582575,"deaths":10179,"critical":496,"tests":31589724},{"country":"Japan","cases":581041,"recovered":515560,"deaths":10107,"critical":951,"tests":11702186},{"country":"Lebanon","cases":525577,"recovered":457758,"deaths":7249,"critical":573,"tests":3982661},{"country":"UAE","cases":518262,"recovered":498943,"deaths":1584,"critical":0,"tests":43904822},{"country":"Morocco","cases":510886,"recovered":497105,"deaths":9020,"critical":207,"tests":6253093},{"country":"Saudi Arabia","cases":416307,"recovered":399509,"deaths":6946,"critical":1312,"tests":16838619},{"country":"Malaysia","cases":404925,"recovered":375340,"deaths":1492,"critical":309,"tests":9333787},{"country":"Bulgaria","cases":403728,"recovered":338312,"deaths":16368,"critical":682,"tests":2509499},{"country":"Slovakia","cases":381744,"recovered":362339,"deaths":11647,"critical":327,"tests":2611807},{"country":"Ecuador","cases":380689,"recovered":318598,"deaths":18552,"critical":620,"tests":1281437},{"country":"Panama","cases":364218,"recovered":354094,"deaths":6227,"critical":105,"tests":2384632},{"country":"Belarus","cases":357233,"recovered":347554,"deaths":2532,"critical":0,"tests":5832409},{"country":"Greece","cases":342908,"recovered":303202,"deaths":10315,"critical":817,"tests":8079691},{"country":"Croatia","cases":330176,"recovered":308258,"deaths":7040,"critical":245,"tests":1794905},{"country":"Azerbaijan","cases":317913,"recovered":287298,"deaths":4490,"critical":0,"tests":3229867},{"country":"Nepal","cases":317530,"recovered":280167,"deaths":3246,"critical":0,"tests":2458565},{"country":"Kazakhstan","cases":316965,"recovered":271289,"deaths":3638,"critical":221,"tests":10128374},{"country":"Georgia","cases":308834,"recovered":289976,"deaths":4095,"critical":0,"tests":4156422},{"country":"Tunisia","cases":307215,"recovered":258190,"deaths":10641,"critical":519,"tests":1305372},{"country":"Bolivia","cases":301831,"recovered":249103,"deaths":12920,"critical":71,"tests":1143872},{"country":"Palestine","cases":295601,"recovered":271233,"deaths":3231,"critical":147,"tests":1741234},{"country":"Paraguay","cases":276865,"recovered":227540,"deaths":6302,"critical":526,"tests":1090897},{"country":"Kuwait","cases":272562,"recovered":255817,"deaths":1554,"critical":222,"tests":2316838},{"country":"Dominican Republic","cases":266214,"recovered":224746,"deaths":3471,"critical":198,"tests":1402391},{"country":"Ethiopia","cases":256418,"recovered":197916,"deaths":3658,"critical":945,"tests":2574544},{"country":"Denmark","cases":250554,"recovered":237757,"deaths":2483,"critical":30,"tests":37198239},{"country":"Moldova","cases":250508,"recovered":239399,"deaths":5795,"critical":207,"tests":985075},{"country":"Costa Rica","cases":248382,"recovered":202593,"deaths":3217,"critical":372,"tests":974477},{"country":"Ireland","cases":248326,"recovered":230548,"deaths":4899,"critical":44,"tests":4472564},{"country":"Lithuania","cases":245963,"recovered":221576,"deaths":3917,"critical":225,"tests":2778621},{"country":"Slovenia","cases":239343,"recovered":225792,"deaths":4243,"critical":157,"tests":1170150},{"country":"Egypt","cases":226531,"recovered":170008,"deaths":13278,"critical":90,"tests":2715258},{"country":"Guatemala","cases":226247,"recovered":201621,"deaths":7500,"critical":5,"tests":1251067},{"country":"Armenia","cases":215528,"recovered":197171,"deaths":4087,"critical":0,"tests":979060},{"country":"Honduras","cases":209490,"recovered":78140,"deaths":5223,"critical":596,"tests":616475},{"country":"Qatar","cases":204976,"recovered":187951,"deaths":450,"critical":377,"tests":1899091},{"country":"Bosnia and Herzegovina","cases":197866,"recovered":158641,"deaths":8512,"critical":0,"tests":903942},{"country":"Venezuela","cases":196386,"recovered":178072,"deaths":2117,"critical":317,"tests":3359014},{"country":"Uruguay","cases":195734,"recovered":164965,"deaths":2563,"critical":549,"tests":1789328},{"country":"Oman","cases":193253,"recovered":173123,"deaths":2010,"critical":275,"tests":1550000},{"country":"Libya","cases":177072,"recovered":162672,"deaths":3023,"critical":0,"tests":956081},{"country":"Bahrain","cases":175752,"recovered":164904,"deaths":639,"critical":101,"tests":4079066},{"country":"Nigeria","cases":165055,"recovered":155041,"deaths":2063,"critical":11,"tests":1912628},{"country":"Kenya","cases":158821,"recovered":108124,"deaths":2707,"critical":191,"tests":1664435},{"country":"North Macedonia","cases":152002,"recovered":132171,"deaths":4818,"critical":124,"tests":718626},{"country":"Myanmar","cases":142800,"recovered":131958,"deaths":3209,"critical":0,"tests":2574773},{"country":"Albania","cases":130977,"recovered":108606,"deaths":2389,"critical":18,"tests":630881},{"country":"Algeria","cases":121866,"recovered":84940,"deaths":3244,"critical":20,"tests":230861},{"country":"Estonia","cases":121657,"recovered":110599,"deaths":1158,"critical":57,"tests":1278977},{"country":"South Korea","cases":121351,"recovered":110787,"deaths":1825,"critical":157,"tests":8805779},{"country":"Latvia","cases":117795,"recovered":107069,"deaths":2125,"critical":84,"tests":2275973},{"country":"Norway","cases":112541,"recovered":88952,"deaths":754,"critical":40,"tests":5191656},{"country":"Sri Lanka","cases":106484,"recovered":95445,"deaths":661,"critical":0,"tests":2538334},{"country":"Cuba","cases":105661,"recovered":99630,"deaths":632,"critical":73,"tests":3586214},{"country":"Montenegro","cases":97257,"recovered":93369,"deaths":1492,"critical":69,"tests":374389},{"country":"Kyrgyzstan","cases":94944,"recovered":88923,"deaths":1598,"critical":25,"tests":983614},{"country":"Ghana","cases":92562,"recovered":90196,"deaths":779,"critical":8,"tests":1075602},{"country":"Zambia","cases":91533,"recovered":89852,"deaths":1250,"critical":45,"tests":1394900},{"country":"Uzbekistan","cases":90406,"recovered":86774,"deaths":647,"critical":23,"tests":1377915},{"country":"Finland","cases":86613,"recovered":46000,"deaths":913,"critical":34,"tests":4457773},{"country":"Cameroon","cases":72250,"recovered":64572,"deaths":1107,"critical":385,"tests":1257949},{"country":"Mozambique","cases":69864,"recovered":64541,"deaths":814,"critical":43,"tests":517018},{"country":"El Salvador","cases":69198,"recovered":64876,"deaths":2120,"critical":31,"tests":914674},{"country":"Luxembourg","cases":67045,"recovered":63448,"deaths":794,"critical":30,"tests":2652698},{"country":"Cyprus","cases":65233,"recovered":39061,"deaths":308,"critical":75,"tests":4851170},{"country":"Thailand","cases":63570,"recovered":35394,"deaths":188,"critical":786,"tests":8124896},{"country":"Singapore","cases":61121,"recovered":60718,"deaths":30,"critical":0,"tests":9536636},{"country":"Afghanistan","cases":59745,"recovered":53103,"deaths":2625,"critical":1124,"tests":401964},{"country":"Namibia","cases":48177,"recovered":45909,"deaths":638,"critical":42,"tests":384768},{"country":"Botswana","cases":46934,"recovered":44960,"deaths":712,"critical":1,"tests":999041},{"country":"Cote d'Ivoire","cases":45998,"recovered":45498,"deaths":286,"critical":0,"tests":590207},{"country":"Jamaica","cases":45414,"recovered":20945,"deaths":770,"critical":26,"tests":329778},{"country":"Uganda","cases":41797,"recovered":41422,"deaths":342,"critical":24,"tests":1012558},{"country":"Senegal","cases":40295,"recovered":39021,"deaths":1107,"critical":11,"tests":478198},{"country":"Zimbabwe","cases":38235,"recovered":35594,"deaths":1567,"critical":12,"tests":413743},{"country":"Madagascar","cases":36696,"recovered":31013,"deaths":637,"critical":493,"tests":181638},{"country":"Mongolia","cases":34623,"recovered":18719,"deaths":102,"critical":109,"tests":2687035},{"country":"Malawi","cases":34062,"recovered":32023,"deaths":1148,"critical":12,"tests":231856},{"country":"Sudan","cases":33104,"recovered":26795,"deaths":2349,"critical":0,"tests":232965},{"country":"Malta","cases":30276,"recovered":29493,"deaths":413,"critical":0,"tests":865521},{"country":"Congo","cases":29812,"recovered":26206,"deaths":763,"critical":0,"tests":148569},{"country":"Australia","cases":29779,"recovered":28593,"deaths":910,"critical":1,"tests":16771707},{"country":"Maldives","cases":29370,"recovered":24703,"deaths":73,"critical":90,"tests":721968},{"country":"Angola","cases":26431,"recovered":23606,"deaths":594,"critical":24,"tests":462632},{"country":"Rwanda","cases":24995,"recovered":23206,"deaths":333,"critical":4,"tests":1308622},{"country":"Cabo Verde","cases":23554,"recovered":20257,"deaths":213,"critical":23,"tests":149692},{"country":"Gabon","cases":22818,"recovered":19390,"deaths":138,"critical":21,"tests":724597},{"country":"Syria","cases":22631,"recovered":16661,"deaths":1583,"critical":0,"tests":103566},{"country":"Guinea","cases":22215,"recovered":19670,"deaths":144,"critical":24,"tests":431897},{"country":"Reunion","cases":20381,"recovered":18659,"deaths":148,"critical":36,"tests":101244},{"country":"Mayotte","cases":20055,"recovered":2964,"deaths":170,"critical":6,"tests":168628},{"country":"French Guiana","cases":19404,"recovered":9995,"deaths":100,"critical":20,"tests":214894},{"country":"French Polynesia","cases":18755,"recovered":4842,"deaths":141,"critical":3,"tests":26355},{"country":"Eswatini","cases":18458,"recovered":17743,"deaths":671,"critical":3,"tests":186323},{"country":"Mauritania","cases":18377,"recovered":17669,"deaths":455,"critical":14,"tests":232876},{"country":"Guadeloupe","cases":14555,"recovered":2242,"deaths":198,"critical":18,"tests":180000},{"country":"Somalia","cases":13915,"recovered":5847,"deaths":713,"critical":0,"tests":111801},{"country":"Mali","cases":13815,"recovered":8467,"deaths":481,"critical":0,"tests":253491},{"country":"Burkina Faso","cases":13309,"recovered":13031,"deaths":157,"critical":0,"tests":179192},{"country":"Tajikistan","cases":13308,"recovered":13218,"deaths":90,"critical":0,"tests":0},{"country":"Andorra","cases":13198,"recovered":12650,"deaths":125,"critical":24,"tests":193595},{"country":"Guyana","cases":13106,"recovered":11110,"deaths":295,"critical":16,"tests":121268},{"country":"Haiti","cases":13017,"recovered":12143,"deaths":254,"critical":0,"tests":60085},{"country":"Togo","cases":12931,"recovered":11045,"deaths":123,"critical":0,"tests":309540},{"country":"Belize","cases":12646,"recovered":12208,"deaths":323,"critical":1,"tests":117050},{"country":"Cambodia","cases":12641,"recovered":4986,"deaths":91,"critical":0,"tests":878976},{"country":"Curaçao","cases":12181,"recovered":11543,"deaths":108,"critical":22,"tests":94089},{"country":"Hong Kong","cases":11771,"recovered":11404,"deaths":209,"critical":3,"tests":11193673},{"country":"Martinique","cases":11253,"recovered":98,"deaths":75,"critical":33,"tests":157145},{"country":"Djibouti","cases":11026,"recovered":10646,"deaths":143,"critical":0,"tests":149095},{"country":"Papua New Guinea","cases":10997,"recovered":8943,"deaths":107,"critical":0,"tests":93283},{"country":"Lesotho","cases":10731,"recovered":6267,"deaths":316,"critical":0,"tests":79490},{"country":"Congo","cases":10678,"recovered":8208,"deaths":144,"critical":0,"tests":92500},{"country":"Aruba","cases":10608,"recovered":10336,"deaths":98,"critical":14,"tests":147439},{"country":"South Sudan","cases":10567,"recovered":10312,"deaths":114,"critical":0,"tests":149288},{"country":"Trinidad and Tobago","cases":10498,"recovered":8420,"deaths":165,"critical":8,"tests":130598},{"country":"Bahamas","cases":10349,"recovered":9421,"deaths":198,"critical":4,"tests":86130},{"country":"Suriname","cases":10286,"recovered":9289,"deaths":201,"critical":22,"tests":50421},{"country":"Benin","cases":7821,"recovered":7580,"deaths":99,"critical":35,"tests":590214},{"country":"Equatorial Guinea","cases":7694,"recovered":7279,"deaths":112,"critical":7,"tests":123169},{"country":"Nicaragua","cases":6898,"recovered":4225,"deaths":182,"critical":0,"tests":0},{"country":"Iceland","cases":6466,"recovered":6246,"deaths":29,"critical":4,"tests":598202},{"country":"CAR","cases":6411,"recovered":5112,"deaths":88,"critical":2,"tests":40907},{"country":"Yemen","cases":6294,"recovered":2731,"deaths":1222,"critical":23,"tests":23855},{"country":"Gambia","cases":5887,"recovered":5341,"deaths":174,"critical":3,"tests":69080},{"country":"Seychelles","cases":5559,"recovered":4675,"deaths":26,"critical":0,"tests":21504},{"country":"Niger","cases":5226,"recovered":4851,"deaths":191,"critical":18,"tests":98571},{"country":"San Marino","cases":5060,"recovered":4909,"deaths":90,"critical":4,"tests":60871},{"country":"Chad","cases":4810,"recovered":4416,"deaths":170,"critical":0,"tests":113578},{"country":"Saint Lucia","cases":4534,"recovered":4357,"deaths":74,"critical":0,"tests":40123},{"country":"Gibraltar","cases":4283,"recovered":4185,"deaths":94,"critical":1,"tests":233075},{"country":"Channel Islands","cases":4055,"recovered":3956,"deaths":86,"critical":1,"tests":454413},{"country":"Sierra Leone","cases":4053,"recovered":3075,"deaths":79,"critical":0,"tests":119155},{"country":"Burundi","cases":3985,"recovered":773,"deaths":6,"critical":0,"tests":90019},{"country":"Barbados","cases":3838,"recovered":3759,"deaths":44,"critical":0,"tests":152716},{"country":"Comoros","cases":3834,"recovered":3674,"deaths":146,"critical":0,"tests":0},{"country":"Guinea-Bissau","cases":3733,"recovered":3300,"deaths":67,"critical":9,"tests":63342},{"country":"Eritrea","cases":3671,"recovered":3492,"deaths":10,"critical":0,"tests":23693},{"country":"Liechtenstein","cases":2921,"recovered":2781,"deaths":57,"critical":6,"tests":39109},{"country":"Vietnam","cases":2910,"recovered":2516,"deaths":35,"critical":0,"tests":2598753},{"country":"New Zealand","cases":2613,"recovered":2564,"deaths":26,"critical":0,"tests":2013539},{"country":"Monaco","cases":2452,"recovered":2358,"deaths":32,"critical":1,"tests":51953},{"country":"Turks and Caicos","cases":2386,"recovered":2342,"deaths":17,"critical":1,"tests":53832},{"country":"Bermuda","cases":2382,"recovered":1805,"deaths":27,"critical":28,"tests":238807},{"country":"Sao Tome and Principe","cases":2301,"recovered":2239,"deaths":35,"critical":0,"tests":12999},{"country":"Sint Maarten","cases":2230,"recovered":2187,"deaths":27,"critical":1,"tests":26359},{"country":"Timor-Leste","cases":2190,"recovered":1067,"deaths":3,"critical":0,"tests":66785},{"country":"Liberia","cases":2099,"recovered":1949,"deaths":85,"critical":2,"tests":95315},{"country":"St. Vincent Grenadines","cases":1855,"recovered":1712,"deaths":11,"critical":2,"tests":44894},{"country":"Saint Martin","cases":1745,"recovered":1399,"deaths":12,"critical":7,"tests":27588},{"country":"Isle of Man","cases":1587,"recovered":1545,"deaths":29,"critical":1,"tests":44761},{"country":"Caribbean Netherlands","cases":1557,"recovered":1465,"deaths":15,"critical":0,"tests":10025},{"country":"Antigua and Barbuda","cases":1232,"recovered":1014,"deaths":32,"critical":1,"tests":16700},{"country":"Mauritius","cases":1208,"recovered":1068,"deaths":17,"critical":0,"tests":358675},{"country":"Taiwan","cases":1121,"recovered":1051,"deaths":12,"critical":0,"tests":539626},{"country":"Bhutan","cases":1066,"recovered":961,"deaths":1,"critical":0,"tests":699421},{"country":"St. Barth","cases":974,"recovered":462,"deaths":1,"critical":0,"tests":26385},{"country":"Diamond Princess","cases":712,"recovered":699,"deaths":13,"critical":0,"tests":0},{"country":"Laos","cases":672,"recovered":50,"deaths":0,"critical":0,"tests":166390},{"country":"Faeroe Islands","cases":663,"recovered":662,"deaths":1,"critical":0,"tests":252457},{"country":"Cayman Islands","cases":542,"recovered":522,"deaths":2,"critical":0,"tests":89451},{"country":"Tanzania","cases":509,"recovered":183,"deaths":21,"critical":7,"tests":0},{"country":"Wallis and Futuna","cases":444,"recovered":44,"deaths":7,"critical":1,"tests":15256},{"country":"Brunei","cases":224,"recovered":215,"deaths":3,"critical":0,"tests":120301},{"country":"British Virgin Islands","cases":194,"recovered":189,"deaths":1,"critical":0,"tests":37158},{"country":"Dominica","cases":174,"recovered":172,"deaths":0,"critical":0,"tests":14936},{"country":"Grenada","cases":160,"recovered":158,"deaths":1,"critical":0,"tests":26331},{"country":"New Caledonia","cases":124,"recovered":58,"deaths":0,"critical":0,"tests":30081},{"country":"Fiji","cases":116,"recovered":65,"deaths":2,"critical":0,"tests":48167},{"country":"Anguilla","cases":91,"recovered":29,"deaths":0,"critical":0,"tests":20933},{"country":"Falkland Islands","cases":63,"recovered":62,"deaths":0,"critical":0,"tests":7202},{"country":"Macao","cases":49,"recovered":49,"deaths":0,"critical":0,"tests":4483},{"country":"Saint Kitts and Nevis","cases":44,"recovered":44,"deaths":0,"critical":0,"tests":12381},{"country":"Greenland","cases":31,"recovered":31,"deaths":0,"critical":0,"tests":20669},{"country":"Vatican City","cases":27,"recovered":15,"deaths":0,"critical":0,"tests":0},{"country":"Saint Pierre Miquelon","cases":25,"recovered":25,"deaths":0,"critical":0,"tests":5318},{"country":"Montserrat","cases":20,"recovered":19,"deaths":1,"critical":0,"tests":1313},{"country":"Solomon Islands","cases":20,"recovered":20,"deaths":0,"critical":0,"tests":4500},{"country":"Western Sahara","cases":10,"recovered":8,"deaths":1,"critical":0,"tests":0},{"country":"MS Zaandam","cases":9,"recovered":7,"deaths":2,"critical":0,"tests":0},{"country":"Vanuatu","cases":4,"recovered":3,"deaths":1,"critical":0,"tests":470},{"country":"Marshall Islands","cases":4,"recovered":4,"deaths":0,"critical":0,"tests":0},{"country":"Samoa","cases":3,"recovered":2,"deaths":0,"critical":0,"tests":0},{"country":"Saint Helena","cases":2,"recovered":2,"deaths":0,"critical":0,"tests":0},{"country":"Micronesia","cases":1,"recovered":1,"deaths":0,"critical":0,"tests":0},{"country":"Total:","cases":38994945,"recovered":33371031,"deaths":515518,"critical":32205,"tests":0},{"country":"Total:","cases":38252938,"recovered":29942852,"deaths":860384,"critical":17517,"tests":0},{"country":"Total:","cases":24767116,"recovered":22393424,"deaths":668553,"critical":27857,"tests":0},{"country":"Total:","cases":44459930,"recovered":39183754,"deaths":1011412,"critical":30296,"tests":0},{"country":"Total:","cases":4587788,"recovered":4112028,"deaths":121848,"critical":3843,"tests":0},{"country":"Total:","cases":62860,"recovered":45139,"deaths":1194,"critical":5,"tests":0},{"country":"Total:","cases":721,"recovered":706,"deaths":15,"critical":0,"tests":0},{"country":"Total:","cases":151126298,"recovered":129048934,"deaths":3178924,"critical":111723,"tests":0}]country,cases,recovered,deaths,critical,tests
+World,151126298,129048934,3178924,111723,0
+China,90642,85682,4636,3,160000000
+USA,33044068,25641574,589271,9751,445062683
+India,18754984,15373765,208313,8944,284471979
+Brazil,14592886,13152118,401417,8318,43818216
+France,5592390,4498598,104238,5804,75604728
+Russia,4796557,4419540,109731,2300,128800000
+Turkey,4788700,4255714,39737,3581,46996712
+UK,4414242,4210343,127502,208,155072706
+Italy,4009207,3449955,120544,2640,58240981
+Spain,3514942,3192970,78080,2320,46199597
+Germany,3379387,2975200,83338,5049,55490413
+Argentina,2954943,2608077,63508,5317,11064135
+Colombia,2841934,2650643,73230,6006,14715576
+Poland,2785346,2483780,67073,2895,14259976
+Iran,2479805,1938064,71351,5367,15693870
+Mexico,2336944,1858844,215918,4798,6589963
+Ukraine,2059465,1635333,43778,177,9335892
+Peru,1791998,1688091,61101,2679,11096385
+Indonesia,1662868,1517432,45334,0,14563216
+Czech Republic,1628542,1549306,29253,622,17890535
+South Africa,1579536,1504426,54331,546,10625030
+Netherlands,1488594,1247879,17126,810,12274847
+Canada,1211083,1103462,24169,1422,31325175
+Chile,1190991,1125761,26247,3396,12979820
+Iraq,1058794,934935,15433,551,9292052
+Romania,1053629,985827,27971,1295,8225496
+Philippines,1028712,942175,17145,750,11731301
+Belgium,982959,848832,24140,892,12420691
+Sweden,973604,790875,14015,392,8482276
+Israel,838407,830530,6362,114,14200104
+Portugal,836033,795326,16974,89,10462333
+Pakistan,815711,708193,17680,5263,11739027
+Hungary,776983,503697,27358,662,5349792
+Bangladesh,756955,677101,11393,0,5448658
+Jordan,709817,680907,8801,729,6685507
+Serbia,687944,633164,6337,171,3828544
+Switzerland,658143,588162,10625,242,6878392
+Austria,616739,582575,10179,496,31589724
+Japan,581041,515560,10107,951,11702186
+Lebanon,525577,457758,7249,573,3982661
+UAE,518262,498943,1584,0,43904822
+Morocco,510886,497105,9020,207,6253093
+Saudi Arabia,416307,399509,6946,1312,16838619
+Malaysia,404925,375340,1492,309,9333787
+Bulgaria,403728,338312,16368,682,2509499
+Slovakia,381744,362339,11647,327,2611807
+Ecuador,380689,318598,18552,620,1281437
+Panama,364218,354094,6227,105,2384632
+Belarus,357233,347554,2532,0,5832409
+Greece,342908,303202,10315,817,8079691
+Croatia,330176,308258,7040,245,1794905
+Azerbaijan,317913,287298,4490,0,3229867
+Nepal,317530,280167,3246,0,2458565
+Kazakhstan,316965,271289,3638,221,10128374
+Georgia,308834,289976,4095,0,4156422
+Tunisia,307215,258190,10641,519,1305372
+Bolivia,301831,249103,12920,71,1143872
+Palestine,295601,271233,3231,147,1741234
+Paraguay,276865,227540,6302,526,1090897
+Kuwait,272562,255817,1554,222,2316838
+Dominican Republic,266214,224746,3471,198,1402391
+Ethiopia,256418,197916,3658,945,2574544
+Denmark,250554,237757,2483,30,37198239
+Moldova,250508,239399,5795,207,985075
+Costa Rica,248382,202593,3217,372,974477
+Ireland,248326,230548,4899,44,4472564
+Lithuania,245963,221576,3917,225,2778621
+Slovenia,239343,225792,4243,157,1170150
+Egypt,226531,170008,13278,90,2715258
+Guatemala,226247,201621,7500,5,1251067
+Armenia,215528,197171,4087,0,979060
+Honduras,209490,78140,5223,596,616475
+Qatar,204976,187951,450,377,1899091
+Bosnia and Herzegovina,197866,158641,8512,0,903942
+Venezuela,196386,178072,2117,317,3359014
+Uruguay,195734,164965,2563,549,1789328
+Oman,193253,173123,2010,275,1550000
+Libya,177072,162672,3023,0,956081
+Bahrain,175752,164904,639,101,4079066
+Nigeria,165055,155041,2063,11,1912628
+Kenya,158821,108124,2707,191,1664435
+North Macedonia,152002,132171,4818,124,718626
+Myanmar,142800,131958,3209,0,2574773
+Albania,130977,108606,2389,18,630881
+Algeria,121866,84940,3244,20,230861
+Estonia,121657,110599,1158,57,1278977
+South Korea,121351,110787,1825,157,8805779
+Latvia,117795,107069,2125,84,2275973
+Norway,112541,88952,754,40,5191656
+Sri Lanka,106484,95445,661,0,2538334
+Cuba,105661,99630,632,73,3586214
+Montenegro,97257,93369,1492,69,374389
+Kyrgyzstan,94944,88923,1598,25,983614
+Ghana,92562,90196,779,8,1075602
+Zambia,91533,89852,1250,45,1394900
+Uzbekistan,90406,86774,647,23,1377915
+Finland,86613,46000,913,34,4457773
+Cameroon,72250,64572,1107,385,1257949
+Mozambique,69864,64541,814,43,517018
+El Salvador,69198,64876,2120,31,914674
+Luxembourg,67045,63448,794,30,2652698
+Cyprus,65233,39061,308,75,4851170
+Thailand,63570,35394,188,786,8124896
+Singapore,61121,60718,30,0,9536636
+Afghanistan,59745,53103,2625,1124,401964
+Namibia,48177,45909,638,42,384768
+Botswana,46934,44960,712,1,999041
+Cote d'Ivoire,45998,45498,286,0,590207
+Jamaica,45414,20945,770,26,329778
+Uganda,41797,41422,342,24,1012558
+Senegal,40295,39021,1107,11,478198
+Zimbabwe,38235,35594,1567,12,413743
+Madagascar,36696,31013,637,493,181638
+Mongolia,34623,18719,102,109,2687035
+Malawi,34062,32023,1148,12,231856
+Sudan,33104,26795,2349,0,232965
+Malta,30276,29493,413,0,865521
+Congo,29812,26206,763,0,148569
+Australia,29779,28593,910,1,16771707
+Maldives,29370,24703,73,90,721968
+Angola,26431,23606,594,24,462632
+Rwanda,24995,23206,333,4,1308622
+Cabo Verde,23554,20257,213,23,149692
+Gabon,22818,19390,138,21,724597
+Syria,22631,16661,1583,0,103566
+Guinea,22215,19670,144,24,431897
+Reunion,20381,18659,148,36,101244
+Mayotte,20055,2964,170,6,168628
+French Guiana,19404,9995,100,20,214894
+French Polynesia,18755,4842,141,3,26355
+Eswatini,18458,17743,671,3,186323
+Mauritania,18377,17669,455,14,232876
+Guadeloupe,14555,2242,198,18,180000
+Somalia,13915,5847,713,0,111801
+Mali,13815,8467,481,0,253491
+Burkina Faso,13309,13031,157,0,179192
+Tajikistan,13308,13218,90,0,0
+Andorra,13198,12650,125,24,193595
+Guyana,13106,11110,295,16,121268
+Haiti,13017,12143,254,0,60085
+Togo,12931,11045,123,0,309540
+Belize,12646,12208,323,1,117050
+Cambodia,12641,4986,91,0,878976
+Curaçao,12181,11543,108,22,94089
+Hong Kong,11771,11404,209,3,11193673
+Martinique,11253,98,75,33,157145
+Djibouti,11026,10646,143,0,149095
+Papua New Guinea,10997,8943,107,0,93283
+Lesotho,10731,6267,316,0,79490
+Congo,10678,8208,144,0,92500
+Aruba,10608,10336,98,14,147439
+South Sudan,10567,10312,114,0,149288
+Trinidad and Tobago,10498,8420,165,8,130598
+Bahamas,10349,9421,198,4,86130
+Suriname,10286,9289,201,22,50421
+Benin,7821,7580,99,35,590214
+Equatorial Guinea,7694,7279,112,7,123169
+Nicaragua,6898,4225,182,0,0
+Iceland,6466,6246,29,4,598202
+CAR,6411,5112,88,2,40907
+Yemen,6294,2731,1222,23,23855
+Gambia,5887,5341,174,3,69080
+Seychelles,5559,4675,26,0,21504
+Niger,5226,4851,191,18,98571
+San Marino,5060,4909,90,4,60871
+Chad,4810,4416,170,0,113578
+Saint Lucia,4534,4357,74,0,40123
+Gibraltar,4283,4185,94,1,233075
+Channel Islands,4055,3956,86,1,454413
+Sierra Leone,4053,3075,79,0,119155
+Burundi,3985,773,6,0,90019
+Barbados,3838,3759,44,0,152716
+Comoros,3834,3674,146,0,0
+Guinea-Bissau,3733,3300,67,9,63342
+Eritrea,3671,3492,10,0,23693
+Liechtenstein,2921,2781,57,6,39109
+Vietnam,2910,2516,35,0,2598753
+New Zealand,2613,2564,26,0,2013539
+Monaco,2452,2358,32,1,51953
+Turks and Caicos,2386,2342,17,1,53832
+Bermuda,2382,1805,27,28,238807
+Sao Tome and Principe,2301,2239,35,0,12999
+Sint Maarten,2230,2187,27,1,26359
+Timor-Leste,2190,1067,3,0,66785
+Liberia,2099,1949,85,2,95315
+St. Vincent Grenadines,1855,1712,11,2,44894
+Saint Martin,1745,1399,12,7,27588
+Isle of Man,1587,1545,29,1,44761
+Caribbean Netherlands,1557,1465,15,0,10025
+Antigua and Barbuda,1232,1014,32,1,16700
+Mauritius,1208,1068,17,0,358675
+Taiwan,1121,1051,12,0,539626
+Bhutan,1066,961,1,0,699421
+St. Barth,974,462,1,0,26385
+Diamond Princess,712,699,13,0,0
+Laos,672,50,0,0,166390
+Faeroe Islands,663,662,1,0,252457
+Cayman Islands,542,522,2,0,89451
+Tanzania,509,183,21,7,0
+Wallis and Futuna,444,44,7,1,15256
+Brunei,224,215,3,0,120301
+British Virgin Islands,194,189,1,0,37158
+Dominica,174,172,0,0,14936
+Grenada,160,158,1,0,26331
+New Caledonia,124,58,0,0,30081
+Fiji,116,65,2,0,48167
+Anguilla,91,29,0,0,20933
+Falkland Islands,63,62,0,0,7202
+Macao,49,49,0,0,4483
+Saint Kitts and Nevis,44,44,0,0,12381
+Greenland,31,31,0,0,20669
+Vatican City,27,15,0,0,0
+Saint Pierre Miquelon,25,25,0,0,5318
+Montserrat,20,19,1,0,1313
+Solomon Islands,20,20,0,0,4500
+Western Sahara,10,8,1,0,0
+MS Zaandam,9,7,2,0,0
+Vanuatu,4,3,1,0,470
+Marshall Islands,4,4,0,0,0
+Samoa,3,2,0,0,0
+Saint Helena,2,2,0,0,0
+Micronesia,1,1,0,0,0
+Total:,38994945,33371031,515518,32205,0
+Total:,38252938,29942852,860384,17517,0
+Total:,24767116,22393424,668553,27857,0
+Total:,44459930,39183754,1011412,30296,0
+Total:,4587788,4112028,121848,3843,0
+Total:,62860,45139,1194,5,0
+Total:,721,706,15,0,0
+Total:,151126298,129048934,3178924,111723,0
