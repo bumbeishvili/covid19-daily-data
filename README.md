@@ -12,6 +12,7 @@ Due to changes in methodology or lack of information, or just because of bugs, s
 5. France, Spain, UK and Norwey problem
 6. Turkey - sudden increase case
 7. 6 Jan - Forgot to add data, so had to interpolate it
+8. May 9 - Error from worldometers, only chech republic had death data noted, so records are doubled
 
 #### Notes for self when using historical data
 * We manually updated data for France, so we should be careful not to overwrite it 
