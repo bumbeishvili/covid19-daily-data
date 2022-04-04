@@ -3,6 +3,13 @@
 
 # Worldometers daily data
 
+
+
+> :warning:  After reliably updating this dataset for more than 2 years, I've finally decided to stop updating it. 
+
+
+
+
 #### Notes
 Due to changes in methodology or lack of information, or just because of bugs, sometimes we need to apply modifications to past records, currently I am identifying the need of following changes
 
